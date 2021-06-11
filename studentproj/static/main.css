@@ -80,6 +80,9 @@ body {
   .invalid-feedback{
     color:#f71010;
   }
+  .container1{
+    padding-bottom: 10px;
+  }
   #space{
     margin-left: 10px;
   }
